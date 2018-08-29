@@ -12,7 +12,7 @@ include("functions/functions.php");
 <script type="https://ajax.googleapis.com/ajax/libs/jquery/2.1.3/jquery.min.js"></script>
 <script type="js/boostrap.min.js"></script>
 </head>
-
+<h2>dvrtg</h2>
 
 <body>
 	 <!--Main Container starts here-->
